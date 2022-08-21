@@ -1,0 +1,2 @@
+cd %TEMP%
+Powershell -Command "Invoke-WebRequest 'https://i.ytimg.com/vi/2wZ1julboho/maxresdefault.jpg'" -OutFile hm.png
